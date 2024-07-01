@@ -1,1 +1,1 @@
-fileMock.js
+module.exports = '';
