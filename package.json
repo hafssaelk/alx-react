@@ -1,0 +1,29 @@
+{
+  "name": "alx-react",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "\"\",",
+  "license": "ISC",
+  "description": "\"\",",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hafssaelk/alx-react.git,.git"
+  },
+  "keywords": [
+    "[]"
+  ],
+  "bugs": {
+    "url": "https://github.com/hafssaelk/alx-react.git,/issues"
+  },
+  "homepage": "https://github.com/hafssaelk/alx-react.git,#readme",
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
